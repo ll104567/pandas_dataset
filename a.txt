@@ -1,0 +1,8 @@
+name id math
+ll  1   90
+lp  1   90
+xx  2   89
+qq  3   67
+ww  4   56
+ee  5   56
+aa  6   12

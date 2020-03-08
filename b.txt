@@ -1,0 +1,7 @@
+name id chinese
+xx  2   89
+qq  3   67
+ww  4   56
+ee  5   56
+aa  6   12
+ab  7   12
